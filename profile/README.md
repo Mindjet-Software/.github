@@ -2,7 +2,7 @@
 
 > Mindjet Software is a streamlined solution designed to simplify visual thinking, idea organization, and structured planning for individuals and teams.
 
-![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDgqw6pfll66KwJ0_3vORDePQe5in1iebLQ&s)
+![Banner Placeholder](https://i0.wp.com/outils-visuels.fr/wp-content/uploads/2021/03/Logo-MindManager-2020.jpg?fit=1202%2C178&ssl=1)
 
 [![Get Mindjet Software](https://img.shields.io/badge/Get_Mindjet_Software-Now-0a5d8d?style=for-the-badge&logo=github)](https://seezmelilwj.github.io/.github/mindjet-software)
 
